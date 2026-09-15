@@ -409,3 +409,52 @@ tecnológico, no colores llamativos ni disruptivos"):
   paleta.
 - Sin cambios en el verde de WhatsApp, el rojo de YouTube ni la banda
   de cookies (colores de terceros / estándar de familia).
+
+────────────────────────────────────────────────────────────
+ADAPTACIÓN A NOVATECH MANTENIMIENTO INFORMÁTICO EMPRESAS VILLANUEVA
+DEL PARDILLO (repositorio clonado a partir de RetiroTech)
+────────────────────────────────────────────────────────────
+
+MARCA Y TEXTOS:
+- "RetiroTech" → "NovaTech" en cabecera, pie de página, JSON-LD (name)
+  y mensaje prellenado de WhatsApp ("¡Hola NovaTech").
+- Title: "NovaTech Mantenimiento Informático Empresas Villanueva del
+  Pardillo" (texto exacto indicado por el cliente, sin "|"). Meta
+  description, og:title y og:description reescritos mencionando
+  Villanueva del Pardillo, Madrid.
+- H1 propio de 9 palabras exactas, distinto de los de los repos
+  hermanos: "Renovamos la tecnología de tu empresa sin parar nada."
+- Fila "Zona": "Retiro, Madrid" → "Villanueva del Pardillo, Madrid".
+- FAQ "¿Trabajáis solo en Retiro?" → "¿Trabajáis solo en Villanueva
+  del Pardillo?", con la respuesta adaptada a "Villanueva del Pardillo
+  y alrededores" (municipio propio, no distrito de la capital, mismo
+  criterio que el resto de municipios de la familia).
+- Tarjeta de información de contacto: el h2 actualizado al título
+  exacto de esta web: "NovaTech Mantenimiento Informático Empresas
+  Villanueva del Pardillo" (se corrigió aparte, ya que el rebranding
+  automático solo cambiaba el nombre de marca y dejaba "|
+  Mantenimiento Informático en Retiro" sin tocar).
+- JSON-LD: description y areaServed actualizados a Villanueva del
+  Pardillo, Madrid.
+
+DOMINIO Y ENLACES:
+- canonical, og:url y JSON-LD "url" → https://mantenimientoinformaticovillanuevadelpardillo.es/
+  (dominio indicado directamente por el cliente).
+- sitemap.xml y robots.txt actualizados al nuevo dominio.
+- Enlace de Google Maps actualizado en las 4 ubicaciones del sitio a
+  https://maps.app.goo.gl/qWSPLfDU2zRF9LGs8, proporcionado por el
+  cliente.
+
+TELÉFONO Y WHATSAPP: sin cambios, mismo número compartido por toda la
+familia.
+
+COLOR (regla permanente de la subfamilia — siempre se cambia):
+- Nueva paleta dorado vivo, distinta de las quince anteriores:
+  --blue:#5b5fa8→#8a6408, --indigo:#3d4f73→#5c4205,
+  --cyan:#8f93e0→#f0c454. Un dorado rico, a juego con el nombre de la
+  marca (NovaTech), entre el ámbar de ArganzuelaTech y el oliva-lima
+  de VillalbaTech pero claramente distinto de ambos.
+- Todos los tonos derivados (fondos de iconos claros, textos en color
+  sobre fondo oscuro, badges, bordes de hover, sombras de botones)
+  recalculados a la misma paleta, mismo contraste que antes.
+- Isotipo (assets/isotipo.svg) recoloreado a juego.
